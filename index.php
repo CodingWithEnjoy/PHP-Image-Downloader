@@ -17,7 +17,7 @@ if (isset($_POST['downloadBtn'])) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Image Download in PHP | CodingNepal</title>
+    <title>Image Download in PHP | Coding With Enjoy</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
